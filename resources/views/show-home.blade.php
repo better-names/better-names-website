@@ -67,7 +67,7 @@
                     I do not want that, and it's harmful to the message this website seeks to amplify.
                 </p>
                 <p>
-                    You can find the source code for this website <a href="https://github.com/better-names/better-names-website">on GitHub</a>
+                    You can find the source code for this website <a href="https://github.com/better-names/better-names-website" class="text-blue-500 underline">on GitHub</a>
                 </p>
             </div>
         </div>
