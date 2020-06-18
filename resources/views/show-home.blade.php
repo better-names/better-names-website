@@ -58,7 +58,6 @@
                         <li>Listing BitBucket repos</li>
                         <li>Adding text file explaining the change to repos</li>
                         <li>Suggesting more alternatives</li>
-                        <li>Opening up the source code (as soon as GitHub allows the anonymous account)</li>
                     </ol>
                 </p>
                 <p class="max-w-3xl">
@@ -66,6 +65,9 @@
                     is well known to those around me. <strong>It's not a change for me. It's a change I
                     believe is the right thing to do</strong>. Please don't try to figure out who I am.
                     I do not want that, and it's harmful to the message this website seeks to amplify.
+                </p>
+                <p>
+                    You can find the source code for this website <a href="https://github.com/better-names/better-names-website">on GitHub</a>
                 </p>
             </div>
         </div>
