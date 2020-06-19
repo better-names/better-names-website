@@ -40,6 +40,10 @@
                             <a href="https://gist.github.com/DamirPorobic/5be1a47d11c2c7444ddb171d19b4919e" class="text-blue-500 underline">DamirPorobic/rename-branch.sh</a>
                             (Bash)
                         </li>
+                        <li>
+                            <a href="https://github.com/dewyze/master_to_main" class="text-blue-500 underline">dewyze/master_to_main</a>
+                            (Ruby)
+                        </li>
                     </ol>
                 </p>
             </div>
