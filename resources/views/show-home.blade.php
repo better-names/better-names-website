@@ -60,12 +60,6 @@
                         <li>Suggesting more alternatives</li>
                     </ol>
                 </p>
-                <p class="max-w-3xl">
-                    I have intentionally chosen to do this anonymously. My opinion on this kind of change
-                    is well known to those around me. <strong>It's not a change for me. It's a change I
-                    believe is the right thing to do</strong>. Please don't try to figure out who I am.
-                    I do not want that, and it's harmful to the message this website seeks to amplify.
-                </p>
                 <p>
                     You can find the source code for this website <a href="https://github.com/better-names/better-names-website" class="text-blue-500 underline">on GitHub</a>
                 </p>
