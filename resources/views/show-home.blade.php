@@ -33,6 +33,8 @@
                 <li>stable (think GitFlow)</li>
                 <li>latest</li>
                 <li>trunk (works nicely with the "branch" terminology)</li>
+                <li>release</li>
+                <li>staging</li>
             </ul>
             You can use any of these in the text fields (next to each repository).
         </p>
@@ -71,7 +73,6 @@
                         <li>Suggesting reading resources to learn about systemic racism</li>
                         <li>Listing BitBucket repos</li>
                         <li>Adding text file explaining the change to repos</li>
-                        <li>Suggesting more alternatives</li>
                     </ol>
                 </p>
                 <p>
