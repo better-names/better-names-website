@@ -26,6 +26,16 @@
                 racism, but it's something.
             </p>
         </div>
+        <p class="max-w-3xl">
+            Here are some names that work well:
+            <ul class="list-decimal mt-4 px-8">
+                <li>main (the default suggestion)</li>
+                <li>stable (think GitFlow)</li>
+                <li>latest</li>
+                <li>trunk (works nicely with the "branch" terminology)</li>
+            </ul>
+            You can use any of these in the text fields (next to each repository).
+        </p>
         <div class="bg-gray-100 py-4 mb-4">
             <div class="container mx-auto px-4 space-y-4">
                 <p class="max-w-3xl">
